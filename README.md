@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveen-7000&label=Profile%20views&color=0e75b6&style=flat" alt="naveen-7000" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naveen-7000" alt="naveen-7000" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Naveen-7000" alt="Naveen-7000" /></a> </p>
 
 - 🌱 I’m currently learning **Selenium**
 
