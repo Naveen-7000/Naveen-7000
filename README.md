@@ -15,7 +15,7 @@
 
 -💬 Ask me about Frontend dev and tech trend
 
-- 📫 How to reach me **navinbhusare89@gmail.com**
+-📫 How to reach me **navinbhusare89@gmail.com**
 
 <h3 align="left">🌐 Socials</h3>
 <hr/>
