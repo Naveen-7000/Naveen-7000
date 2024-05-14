@@ -7,11 +7,11 @@
 <h3 align="left">💫 About me</h3>
 <hr/>
 
--👯 I’m looking to collaborate on open source projects
+-👯 I’m looking to collaborate on open-source projects
 
--🤝 I’m looking for new opportunities and open for any feedback
+-🤝 I’m looking for new opportunities and am open to any feedback
 
--🌱 I’m currently improving my skill on TypeScript and DSA
+-🌱 I’m currently improving my skills in TypeScript and DSA
 
 -💬 Ask me about Frontend dev and tech trend
 
