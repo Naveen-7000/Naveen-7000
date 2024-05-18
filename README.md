@@ -27,7 +27,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Naveen+Bhusare">
+    <a href="https://www.google.com/search?q=Naveen+Bhusare" target="_blank">
        <img src="https://img.shields.io/badge/Google-DC143C?style=for-the-badge&logo=google&logoColor=white" alt="naveen" />
     </a>
     <br>
