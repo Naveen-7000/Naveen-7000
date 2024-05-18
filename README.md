@@ -27,7 +27,9 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Naveen+Bhusare">「 Google Me 」</a>
+    <a href="https://www.google.com/search?q=Naveen+Bhusare">
+       <img src="https://img.shields.io/badge/Google-DC143C?style=for-the-badge&logo=google&logoColor=white" alt="naveen" />
+    </a>
     <br>
     「 I am a frontend developer from <b>India</b> 」
     <br>
